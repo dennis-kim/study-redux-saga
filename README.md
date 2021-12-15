@@ -1,2 +1,1 @@
-# study-redux-saga
-rudex + redux-saga(비동기)
+# redux 의 비동기 사용을 위한 redux-saga 프로젝트
